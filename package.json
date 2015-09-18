@@ -1,0 +1,19 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "transparent http proxy",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "filternet": "0.0.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "proxy",
+    "meshnet"
+  ],
+  "author": "juanvallejo",
+  "license": "ISC"
+}
